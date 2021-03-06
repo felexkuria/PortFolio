@@ -4,8 +4,7 @@
     <li>Introduction to Html5 </li>
     <ul type="number">
         <li>Boiler Plate code Generation</li>
-
-        <li>Html Anatomy i.e body ,head ,title</li>
+       <li>Html Anatomy i.e body ,head ,title</li>
         <li>Lists ,Image Elements</li>
         <li>Links and Hrefs and anchor Tags</li>
         <li>Tables ,Forms</li>
@@ -20,8 +19,7 @@
             <li>External Css</li>
             <li>Anatomy of Css Syntax & Classes vs Ids</li>
         </ul>
-
-        <li>Intermediate Css</li>
+      <li>Intermediate Css</li>
         <ul>
             <li>Divs ,Favicon</li>
             <li>Box model</li>
@@ -35,4 +33,4 @@
 
 </ul>
 <h3>here is screenshot of the work</h3>
-<img width="25%" src="Screenshot (172).png" alt="screenshot">
+<img width="40%" src="Screenshot (172).png" alt="screenshot">
