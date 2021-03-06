@@ -1,0 +1,101 @@
+        body {
+            margin: 0;
+            text-align: center;
+            font-family: Quicksand, serif;
+        }
+        
+        h1 {
+            margin-top: 50px;
+            font-family: 'Sacramento', cursive;
+            font-size: 5.625rem;
+            color: #66BFBF;
+            font-weight: bold;
+        }
+        
+        h2 {
+            font-family: 'Quicksand', sans-serif;
+            font-size: 1.5rem;
+            color: #66BFBF;
+            font-weight: bolder;
+        }
+        
+        h3 {
+            font-family: 'Fira Mono', 'Quicksand', monospace;
+            color: #11999E;
+        }
+        
+        .top-container {
+            background-color: #e4f9f5;
+            padding-top: 100px;
+        }
+        
+        .top-cloud {
+            position: absolute;
+            right: 300px;
+            top: 50px;
+        }
+        
+        .bottom-cloud {
+            position: absolute;
+            left: 300px;
+        }
+        
+        .profile {
+            border-radius: 100%;
+            width: 40%;
+            margin: 20px auto 20px auto;
+        }
+        
+        .skill-row {
+            width: 50%;
+            margin: 100px auto 100px auto;
+            text-align: left;
+        }
+        
+        p {
+            line-height: 2;
+        }
+        
+        .chill {
+            width: 25%;
+            float: left;
+            margin-right: 30px;
+        }
+        
+        .chilles {
+            width: 25%;
+            float: right;
+            margin-left: 30px;
+        }
+        
+        .photo {
+            width: 25%;
+            float: right;
+            margin-left: 30px;
+        }
+        
+        .contact {
+            color: white;
+        }
+        
+        .btn {
+            border-radius: 25px;
+            background: #29a3fb;
+            padding: 10px;
+            width: 200px;
+            height: 50px;
+            color: white;
+            text-decoration: none;
+            font-size: 1rem;
+        }
+        
+        .bottom-container {
+            background-color: #66BFBF;
+            margin-top: 70px;
+        }
+        
+        .footer-link {
+            color: #11999E;
+            text-decoration: none;
+            margin: auto 20px;
+        }
