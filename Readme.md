@@ -4,11 +4,11 @@
     <li>Introduction to Html5 </li>
     <ul type="number">
         <li>Boiler Plate code Generation</li>
-       <li>Html Anatomy i.e body ,head ,title</li>
+        <li>Html Anatomy i.e body ,head ,title</li>
         <li>Lists ,Image Elements</li>
         <li>Links and Hrefs and anchor Tags</li>
         <li>Tables ,Forms</li>
-        <li>Publishing a page in Github for free view page <a> href="https://felexkuria.github.io/PortFolio/" here</a></li>
+        <li>Publishing a page in Github for free view page <a href="https://felexkuria.github.io/PortFolio/"> Here</a></li>
     </ul>
     <li>Introduction to Css3 </li>
     <ul>
@@ -19,7 +19,7 @@
             <li>External Css</li>
             <li>Anatomy of Css Syntax & Classes vs Ids</li>
         </ul>
-      <li>Intermediate Css</li>
+        <li>Intermediate Css</li>
         <ul>
             <li>Divs ,Favicon</li>
             <li>Box model</li>
